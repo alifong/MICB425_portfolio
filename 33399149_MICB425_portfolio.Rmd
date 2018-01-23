@@ -1,0 +1,6 @@
+---
+title: "MICB425 portfolio"
+author: "Alison Fong 33399149"
+date: '2018-01-22'
+output: html_document
+---
