@@ -1,0 +1,24 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1516986637494.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "258EDA2E",
+    "lastKnownWriteTime" : 1517948811,
+    "last_content_update" : 1517948811644,
+    "path" : "~/Documents/MICB425_portfolio/Saanich Script.R",
+    "project_path" : "Saanich Script.R",
+    "properties" : {
+        "cursorPosition" : "64,0",
+        "docOutlineVisible" : "0",
+        "scrollLine" : "44",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
