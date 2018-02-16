@@ -178,7 +178,7 @@ What is the number of prokaryotes and the total amount of their cellular carbon 
 Aquatic Environments: estimates of cell density, volume, and carbon
 Soil: estimates from detailed direct counts from representative soils, estimates from other papers/unpublished field studies of EA Paul for cultivated soils 
 Subsurface: calculation of arithmetic averages to create a depth profile, extrapolation from formula of published papers
-- 2 other approaches:
+2 other approaches:
 (1) Assuming average porosity of the terrestrial subsurface is 3%
 (2) Estimation from groundwater data
 Other Habitats: 
@@ -188,32 +188,32 @@ For air - estimates from references
 To estimate carbon content in prokaryotes: estimations using cell numbers; using average dry weight of cells; average cellular carbon
 
 * Summarize the main results or findings.
-- Number of prokaryotes is estimated to be 4-6 x 10^30 cells
-- Prokaryotes’ cellular carbon on Earth is estimated to be 350-550 Pg of C
-- Total amount of prokaryotic carbon = 60-100% of the estimated total carbon in plants, so inclusion of prokaryotic carbon in global models will almost double estimates of the amount of carbon stored in living organisms
-- Earth’s prokaryotes contain 85-130 Pg of N and 9-14 Pg of P
-- Number of prokaryotes in:
+Number of prokaryotes is estimated to be 4-6 x 10^30 cells
+Prokaryotes’ cellular carbon on Earth is estimated to be 350-550 Pg of C
+Total amount of prokaryotic carbon = 60-100% of the estimated total carbon in plants, so inclusion of prokaryotic carbon in global models will almost double estimates of the amount of carbon stored in living organisms
+Earth’s prokaryotes contain 85-130 Pg of N and 9-14 Pg of P
+Number of prokaryotes in:
 (1) Open ocean: 1.2 x 10^29 cells
 (2) Soil: 2.6 x 10^29 cells
 (3) Oceanic subsurfaces: 3.5 x 10^30 cells
 (4) Terrestrial subsurfaces: 0.25-2.5 x 10^30 cells
-- Average turnover times of heterotrophic prokaryotes in:
+Average turnover times of heterotrophic prokaryotes in:
 (1) Upper 200 m of open ocean: 6-25 days
 (2) Ocean below 200 m: 0.8 year
 (3) Soil: 2.5 years
 (4) Subsurface: 1-2 x 10^3 years
-- Cellular production rate for all prokaryotes on Earth is estimated to be 1.7 x 10^30 cells per year; highest in open ocean
+Cellular production rate for all prokaryotes on Earth is estimated to be 1.7 x 10^30 cells per year; highest in open ocean
 
 * Do new questions arise from the results?  
 How do carbon content in prokaryotes interact with carbon content from the environment?
 How is carbon from relatively inaccessible sources cycled through the carbon cycle?
 
 * Were there any specific challenges or advantages in understanding the paper (*e.g.* did the authors provide sufficient background information to understand experimental logic, were methods explained adequately, were any specific assumptions made, were conclusions justified based on the evidence, were the figures or tables useful and easy to understand)?
-- No supplemental figures were included; math was not shown
-- Tables were easy to understand, but I wasn’t sure how or where the got the numbers from
-- A lot of the methods were calculations based on assumptions (see methods question above)
-- Enough evidence were supplemented to reach the conclusion; it was more of a question of whether the evidence they based it on were valid/accurate —> papers were referenced, but we might have to go through each individual referenced paper to convince ourselves their values were accurate and reliable 
-- I was a little confused on the schematics of how different habitats/depths of the earth are linked together; it may be helpful to provide a depth diagram or a habitat diagram to show exactly which areas of the earth we are talking about/calculating for 
+No supplemental figures were included; math was not shown
+Tables were easy to understand, but I wasn’t sure how or where the got the numbers from
+A lot of the methods were calculations based on assumptions (see methods question above)
+Enough evidence were supplemented to reach the conclusion; it was more of a question of whether the evidence they based it on were valid/accurate —> papers were referenced, but we might have to go through each individual referenced paper to convince ourselves their values were accurate and reliable 
+I was a little confused on the schematics of how different habitats/depths of the earth are linked together; it may be helpful to provide a depth diagram or a habitat diagram to show exactly which areas of the earth we are talking about/calculating for 
 
 
 ### Problem set 01
